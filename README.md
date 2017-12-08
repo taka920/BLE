@@ -1,2 +1,2 @@
 # BLE
-eddystone
+eddystone2
